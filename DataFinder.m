@@ -1,3 +1,7 @@
+%Author: Josh Mac
+%Do what every you want with this code
+
+
 % Read data from column A starting from cell A2
 rawIds = readtable('FSGData.xlsx', 'ReadVariableNames', false);
 
